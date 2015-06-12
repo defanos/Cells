@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C93FB6E9-D95F-4E18-9CB9-F49154B6ED35</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>75D0ECF62F1E14C71B33D3E74C088BDE1934F361</key>
+		<string>https://github.com/defanos/Cells.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Cells.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>75D0ECF62F1E14C71B33D3E74C088BDE1934F361</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/defanos/Cells.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>75D0ECF62F1E14C71B33D3E74C088BDE1934F361</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>75D0ECF62F1E14C71B33D3E74C088BDE1934F361</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Cells</string>
+		</dict>
+	</array>
+</dict>
+</plist>
