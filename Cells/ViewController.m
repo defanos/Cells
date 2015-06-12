@@ -34,7 +34,7 @@ static NSString *CellTableIdentifier = @"CellTableIdentifier";
     //    [tableView registerClass:[BIDNameAndColorCell class]
     //      forCellReuseIdentifier:CellTableIdentifier];
     tableView.rowHeight = 65;
-    UINib *nib = [UINib nibWithNibName:@"BIDNameAndColorCell" bundle:nil];
+    UINib *nib = [UINib nibWithNibName:@"SDFNameAndColorCell" bundle:nil];
     [tableView registerNib:nib forCellReuseIdentifier:CellTableIdentifier];
     
     UIEdgeInsets contentInset = tableView.contentInset;

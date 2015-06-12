@@ -15,6 +15,7 @@
 		DFB0E8AF1B2AC88100E84AC3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DFB0E8AD1B2AC88100E84AC3 /* LaunchScreen.xib */; };
 		DFB0E8BB1B2AC88100E84AC3 /* CellsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DFB0E8BA1B2AC88100E84AC3 /* CellsTests.m */; };
 		DFB0E8C61B2AC9AD00E84AC3 /* SDFNameAndColorCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DFB0E8C51B2AC9AD00E84AC3 /* SDFNameAndColorCell.m */; };
+		DFB0E8C81B2AD1D800E84AC3 /* SDFNameAndColorCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DFB0E8C71B2AD1D800E84AC3 /* SDFNameAndColorCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,7 @@
 		DFB0E8BA1B2AC88100E84AC3 /* CellsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CellsTests.m; sourceTree = "<group>"; };
 		DFB0E8C41B2AC9AD00E84AC3 /* SDFNameAndColorCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDFNameAndColorCell.h; sourceTree = "<group>"; };
 		DFB0E8C51B2AC9AD00E84AC3 /* SDFNameAndColorCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDFNameAndColorCell.m; sourceTree = "<group>"; };
+		DFB0E8C71B2AD1D800E84AC3 /* SDFNameAndColorCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SDFNameAndColorCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				DFB0E89E1B2AC88100E84AC3 /* Supporting Files */,
 				DFB0E8C41B2AC9AD00E84AC3 /* SDFNameAndColorCell.h */,
 				DFB0E8C51B2AC9AD00E84AC3 /* SDFNameAndColorCell.m */,
+				DFB0E8C71B2AD1D800E84AC3 /* SDFNameAndColorCell.xib */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
@@ -204,6 +207,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DFB0E8C81B2AD1D800E84AC3 /* SDFNameAndColorCell.xib in Resources */,
 				DFB0E8AA1B2AC88100E84AC3 /* Main.storyboard in Resources */,
 				DFB0E8AF1B2AC88100E84AC3 /* LaunchScreen.xib in Resources */,
 				DFB0E8AC1B2AC88100E84AC3 /* Images.xcassets in Resources */,
